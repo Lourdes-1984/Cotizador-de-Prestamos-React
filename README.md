@@ -1,4 +1,4 @@
-# Cotizador de Prestamos
+# :heavy_dollar_sign: Cotizador de Prestamos
 
 ![vista de la app](vista.png)
 
